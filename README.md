@@ -37,7 +37,7 @@ This project is an interactive Kanban board application designed using React JS.
 #### How to Run the Project Locally
 
 1. Clone the Repository:
-      git clone https://github.com/mtg718/QuickSell_Frontend_Assignment
+      git clone https://github.com/mtg718/QuickSell_Kanban_Assignment
    
 
 2. Install Node Modules:
@@ -58,6 +58,6 @@ This project is an interactive Kanban board application designed using React JS.
 #### Project Links
 
 - Live Application: [(https://mohit-quicksell-assignment.netlify.app/)](https://mohit-quicksell-assignment.netlify.app/)
-- GitHub Repository: [https://github.com/mtg718/QuickSell_Frontend_Assignment](https://github.com/mtg718/QuickSell_Frontend_Assignment)
+- GitHub Repository: [https://github.com/mtg718/QuickSell_Kanban_Assignment](https://github.com/mtg718/QuickSell_Kanban_Assignment)
 
 This application leverages React JS's powerful state management and rendering capabilities to create a seamless and intuitive Kanban board interface. Its integration with the provided API ensures real-time data interaction, while state persistence and responsive design enhance usability.
